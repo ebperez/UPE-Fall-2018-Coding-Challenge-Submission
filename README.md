@@ -2,7 +2,8 @@
 
 # Running the program
 ```
-python UPECodingMazeSolver.py
+python UPEMazeSolver.py
 ```
 
-enter your UID
+1. Enter the UID
+2. The program will solve the mazes
